@@ -1,4 +1,4 @@
-package com.maykermiyanaga.web_pager;
+package com.maykermiyanaga.webpager;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.maykermiyanaga.web_pager;
+package com.maykermiyanaga.webpager;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
